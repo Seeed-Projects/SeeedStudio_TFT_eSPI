@@ -1,3 +1,5 @@
+This repository fork is from [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) and has been revised to support Seeed Studio screen products only.
+
 # News
 
 1. Updated support for XIAO ESP32C6 products.
